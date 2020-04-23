@@ -1,11 +1,6 @@
-Continente 1:
 America
-Continente 2:
 Africa
-Continente 3:
 Oceania
-Continente 4:
 Europa
-Continente 5:
 Asia
 
