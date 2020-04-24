@@ -1,6 +1,6 @@
-Africa
 America
-Asia
-Europa
+Africa
 Oceania
+Europa
+Asia
 
